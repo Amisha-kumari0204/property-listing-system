@@ -12,7 +12,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000',
+        url: 'https://property-listing-system-1vku.onrender.com/',
       },
     ],
     components: {
