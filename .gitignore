@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Coverage and test output
+coverage/
+.nyc_output/
+
+# VSCode settings
+.vscode/
+
+# Redis dump
+dump.rdb
+
+# Optional: IDE configs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
