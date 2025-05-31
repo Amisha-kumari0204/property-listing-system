@@ -13,8 +13,8 @@ A comprehensive Property Listing System built to manage real estate property dat
 
 ## Technologies Used
 
-- **Backend Framework:** [Specify your backend framework, e.g., Node.js with Express]
-- **Database:** [Specify database, e.g., MongoDB, MySQL]
+- **Backend Framework:** [Node.js with Express]
+- **Database:** [MongoDB]
 - **API Documentation:** [Swagger UI](https://property-listing-system-1vku.onrender.com/api-docs/)
 - **Hosting:** Render
 
